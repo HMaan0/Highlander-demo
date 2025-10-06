@@ -27,7 +27,6 @@ export default function Home() {
               <tr key={item.id} className="border-t hover:bg-gray-50">
                 <td className="p-3">
                   <input type="checkbox" className="accent-blue-600" />
-                  ``
                 </td>
                 <td className="p-3">{item.number}</td>
                 <td className="p-3">{item.name}</td>
